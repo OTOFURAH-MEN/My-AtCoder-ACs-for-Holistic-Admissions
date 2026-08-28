@@ -1,7 +1,7 @@
 N,K=map(int,input().split())
 print(N-K+1)
 
-#ABC468-B Corridor Watch
+#ABC469-A Train Car
 #問題文
 #[AtCoder ABC469 A](https://atcoder.jp/contests/abc469/tasks/abc469_a)
 #提出結果
